@@ -1,5 +1,0 @@
-export class Candidate{
-    id:string;
-    candidateName:string;
-    
-}

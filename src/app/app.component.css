@@ -1,5 +1,19 @@
-h1{
-    text-align: center;
-    color: blue;
-    
-}
+:host {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  mat-drawer {
+    width: 260px;
+ 
+  }
+  mat-drawer-container {
+    height: 100%;
+  }
+  
+  mat-drawer {
+    background: rgb(170, 169, 222);
+ 
+  }
+  
